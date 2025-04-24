@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinemtopbas&label=Profile%20views&color=0e75b6&style=flat" alt="sinemtopbas" /> </p>
 
-- 🔭 I’m currently working ******
+- 🔭 I’m currently working ***
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **C#**
 
 - 📫 How to reach me **sinemtopbas1@gmail.com**
 
